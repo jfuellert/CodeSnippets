@@ -3,10 +3,10 @@
 //
 // IDECodeSnippetCompletionPrefix: test
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
-// IDECodeSnippetIdentifier: D0EFC526-3F2E-45F9-A000-765CB77E1191
+// IDECodeSnippetIdentifier: BC5B7A78-A202-4D28-9C52-3C47326C0DAB
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetVersion: 2
 - (void)test<#Name#> {
     <#statements#>
 }
