@@ -5,6 +5,7 @@
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: 557F82C1-A475-4E53-8683-9225C9B7575F
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 1
 - (NSString *)debugDescription
 {

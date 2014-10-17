@@ -6,6 +6,7 @@
 // IDECodeSnippetIdentifier: FF337398-CA18-4163-86E8-30E54608005D
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetRelativePriority: 1
+// IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 1
 @autoreleasepool {
     <#statements#>

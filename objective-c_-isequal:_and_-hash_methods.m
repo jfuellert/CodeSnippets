@@ -5,6 +5,7 @@
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: 30A07915-4F35-485B-902C-F416C822B759
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 1
 - (BOOL)isEqual:(id)other
 {

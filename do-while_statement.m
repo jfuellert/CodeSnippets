@@ -5,6 +5,7 @@
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: 1FA9842C-8454-42F7-9119-5818388EDB58
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C
+// IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 1
 do {
     <#statements#>

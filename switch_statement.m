@@ -5,6 +5,7 @@
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: DA95C97A-3F49-4A24-AFF7-8ACE73B0C6FA
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C
+// IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 1
 switch (<#expression#>) {
   case <#constant#>:

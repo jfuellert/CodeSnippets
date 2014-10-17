@@ -5,6 +5,7 @@
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: 754F3DA9-C71D-4412-8C27-D415902FC03F
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 1
 - (instancetype)initWithCoder:(NSCoder *)coder
 {

@@ -5,6 +5,7 @@
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: 6F7768D1-F92C-42EB-986B-AF5DB06CD076
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 1
 NSUInteger index = [<#indexSet#> lastIndex];
 while (index != NSNotFound) {
