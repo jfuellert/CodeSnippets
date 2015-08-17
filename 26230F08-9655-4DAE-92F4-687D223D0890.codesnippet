@@ -6,7 +6,7 @@
 	<string>assignreadonly</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassInterfaceMethods</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>@property (nonatomic, assign, readonly) &lt;#Class#&gt; &lt;#name#&gt;</string>

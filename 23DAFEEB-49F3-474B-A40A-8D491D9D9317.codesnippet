@@ -7,9 +7,11 @@
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>ClassInterfaceMethods</string>
+		<string>ClassInterfaceVariables</string>
+		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic, weak) &lt;#Class#&gt; delegate;</string>
+	<string>@property (nonatomic, weak) id&lt;&lt;#protocol#&gt;&gt; delegate;</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>23DAFEEB-49F3-474B-A40A-8D491D9D9317</string>
 	<key>IDECodeSnippetLanguage</key>
