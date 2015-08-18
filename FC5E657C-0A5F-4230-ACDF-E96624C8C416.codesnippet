@@ -3,10 +3,10 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>const string</string>
+	<string>conststring</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>TopLevel</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>NSString *const k&lt;#Class#&gt;_&lt;#name#&gt; = @"k&lt;#Class#&gt;_&lt;#name#&gt;";</string>

@@ -3,24 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>updateconstraints</string>
+	<string>extern float</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassImplementation</string>
+		<string>TopLevel</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>#pragma mark - Update Constraints
-- (void)updateConstraints {
-    [super updateConstraints];
-    
-    &lt;#code#&gt;
-}</string>
+	<string>FOUNDATION_EXPORT const CGFloat k&lt;#Class#&gt;_&lt;#name#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>96A1E90E-F637-4DA7-B1FD-001239203DB8</string>
+	<string>7F2728B3-DD25-4012-9862-46AAC6795F3F</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Update Constraints</string>
+	<string>Extern Float</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
