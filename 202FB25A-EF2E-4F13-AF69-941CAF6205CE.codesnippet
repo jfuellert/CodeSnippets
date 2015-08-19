@@ -3,22 +3,22 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>conststring</string>
+	<string>/</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>NSString *const k&lt;#Class#&gt;_&lt;#name#&gt; = @"&lt;#string#&gt;";</string>
+	<string>** &lt;#comment#&gt; */</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>FC5E657C-0A5F-4230-ACDF-E96624C8C416</string>
+	<string>202FB25A-EF2E-4F13-AF69-941CAF6205CE</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>String Constant</string>
+	<string>Comment</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
