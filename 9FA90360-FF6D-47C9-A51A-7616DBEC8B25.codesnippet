@@ -3,22 +3,27 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>/</string>
+	<string>prepareforreuse</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>All</string>
+		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>** &lt;#comment#&gt; */</string>
+	<string>#pragma mark - Prepare for reuse
+- (void)prepareForReuse {
+    [super prepareForReuse];
+    
+    &lt;#code#&gt;
+}</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>202FB25A-EF2E-4F13-AF69-941CAF6205CE</string>
+	<string>9FA90360-FF6D-47C9-A51A-7616DBEC8B25</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Comment</string>
+	<string>Prepare for reuse</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
