@@ -3,22 +3,29 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>copyreadonly</string>
+	<string>memory</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassInterfaceMethods</string>
+		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic, copy, readonly) &lt;#Class#&gt; &lt;#name#&gt;;</string>
+	<string>#pragma mark - Memory
+- (void)didReceiveMemoryWarning {
+    [super didReceiveMemoryWarning];
+    
+    &lt;#code#&gt;
+}</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>BF055F01-50E4-45B5-9FED-F8CBF5871A0A</string>
+	<string>10CB4B19-9D51-446F-8761-0EC99954E4A6</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Memory warning</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Copy Readonly</string>
+	<string>Memory warning</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
