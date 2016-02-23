@@ -3,29 +3,29 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>memory</string>
+	<string>varlazy</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>#pragma mark - Memory
-- (void)didReceiveMemoryWarning {
-    [super didReceiveMemoryWarning];
-    
-    &lt;#code#&gt;
-}</string>
+	<string>private lazy var &lt;#var#&gt; : &lt;#type#&gt; = {
+        
+        let &lt;#var#&gt; = &lt;#type#&gt;()
+        
+        return &lt;#var#&gt;
+    }()</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>10CB4B19-9D51-446F-8761-0EC99954E4A6</string>
+	<string>B22B2867-8551-4B0A-9AA0-DE41E195A948</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Memory warning</string>
+	<string>Lazy Var</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Memory warning</string>
+	<string>Lazy Var</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

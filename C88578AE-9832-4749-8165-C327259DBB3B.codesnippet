@@ -3,29 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>memory</string>
+	<string>constant</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>#pragma mark - Memory
-- (void)didReceiveMemoryWarning {
-    [super didReceiveMemoryWarning];
-    
-    &lt;#code#&gt;
-}</string>
+	<string>private let k&lt;#class#&gt;_&lt;#name#&gt; = &lt;#value#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>10CB4B19-9D51-446F-8761-0EC99954E4A6</string>
+	<string>C88578AE-9832-4749-8165-C327259DBB3B</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Memory warning</string>
+	<string>Constant</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Memory warning</string>
+	<string>Constant</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
