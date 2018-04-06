@@ -9,7 +9,7 @@
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>private let k&lt;#class#&gt;_&lt;#name#&gt; = &lt;#value#&gt;</string>
+	<string>private let &lt;#name#&gt; = &lt;#value#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C88578AE-9832-4749-8165-C327259DBB3B</string>
 	<key>IDECodeSnippetLanguage</key>

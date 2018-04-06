@@ -3,30 +3,26 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>constraints</string>
+	<string>dispatchafter</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassImplementation</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// MARK: - Constraints
-fileprivate func createConstraints() {
-    
-    NSLayoutConstraint.activate([
-        &lt;#constraints#&gt;
-        ])
+	<string>DispatchQueue.main.asyncAfter(deadline: .now() + &lt;#time#&gt;) {
+    &lt;#code#&gt;
 }</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>7AC23B40-BD10-4EE7-934D-C9F73D76AC77</string>
+	<string>80608DD2-8671-4766-B0EC-7161E9137F27</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Update constraints</string>
+	<string>Dispatch After</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Update constraints</string>
+	<string>Dispatch After</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
