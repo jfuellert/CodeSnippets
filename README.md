@@ -1,10 +1,11 @@
 # Snippets
-An Xcode Objective-C code snippet repository.
+An Xcode Objective-C / Swift 4 code snippet repository.
 
 ## Installation
-1. Open terminal navigate to the Xcode snippet folder: ```cd ~/Library/Developer/Xcode/UserData/CodeSnippets/```
-2. Clone the repo: ```git clone https://github.com/jfuellert/JFSnippets.git```
-3. Restart Xcode :)
+Installation via these commands will overwrite any existing code snippets!
+1. ```cd ~/Library/Developer/Xcode/UserData/```  
+2. ```git clone https://github.com/jfuellert/CodeSnippets.git```  
+3. Restart Xcode
 
 ## Snippet shortcuts
 
