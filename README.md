@@ -7,7 +7,36 @@ Installation via these commands will overwrite any existing code snippets!
 2. ```git clone https://github.com/jfuellert/CodeSnippets.git```  
 3. Restart Xcode
 
-## Snippet shortcuts
+## Swift Snippet shortcuts
+
+### Constants
+- Constant ```constant```
+
+### Properties
+- Delegate ```delegate```
+- Declare local immutable property ```var```
+- Declare lazy load local property ```varlazy```
+
+### Functions
+- Create constraints ```createconstraints```
+- Prepare for reuse ```prepareforreuse```
+- Layout subviews ```layoutsubviews```
+- Dealloc ```deal```
+
+### Misc
+- Pragma mark ```prag```
+- Comment ```/```  
+- Dispatch after ```dispatchafter```
+
+## Objective-C Snippet shortcuts
+
+### Constants
+- External CGFloat ```externfloat```
+- External NSUInteger ```externinteger```
+- External NSString ```externstring```
+- Internal CGFloat ```constfloat```
+- Internal NSUInteger ```constinteger```
+- Internal NSString ```conststring```
 
 ### Properties
 - Delegate ```delegate```
@@ -19,14 +48,6 @@ Installation via these commands will overwrite any existing code snippets!
 - Strong readonly ```strongreadonly```
 - Copy readonly ```copyreadonly```
 - Weak readonly ```weakreadonly```
-
-### Constants
-- External CGFloat ```externfloat```
-- External NSUInteger ```externinteger```
-- External NSString ```externstring```
-- Internal CGFloat ```constfloat```
-- Internal NSUInteger ```constinteger```
-- Internal NSString ```conststring```
 
 ### Life cycle
 - Init ```init```
