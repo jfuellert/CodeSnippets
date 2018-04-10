@@ -9,7 +9,7 @@
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>weak var delegate : &lt;#protocol#&gt;?</string>
+	<string>weak var delegate: &lt;#protocol#&gt;?</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DB17C1EB-C7C2-4557-A8B8-97D052C05F66</string>
 	<key>IDECodeSnippetLanguage</key>
