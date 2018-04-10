@@ -9,7 +9,7 @@
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>private lazy var &lt;#var#&gt;: &lt;#type#&gt; = {
+	<string>fileprivate lazy var &lt;#var#&gt;: &lt;#type#&gt; = {
         
         let &lt;#var#&gt; = &lt;#type#&gt;()
         

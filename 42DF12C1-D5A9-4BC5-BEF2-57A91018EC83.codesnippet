@@ -9,7 +9,7 @@
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>    private let &lt;#var#&gt;: &lt;#type#&gt; = {
+	<string>    fileprivate let &lt;#var#&gt;: &lt;#type#&gt; = {
         
         let &lt;#var#&gt; = &lt;#type#&gt;()
         
