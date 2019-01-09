@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>    fileprivate lazy var &lt;#var#&gt;: UISwitch = {
+        
+        let switchButton                                       = UISwitch()
+        switchButton.translatesAutoresizingMaskIntoConstraints = false
+        button.addTarget(self, action: #selector(&lt;#selector#&gt;), for: .valueChanged)
+
+        return switchButton
+    }()</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>64E4E532-9F61-4AB7-BFDA-7A0452630C77</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>My Code Snippet</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>
