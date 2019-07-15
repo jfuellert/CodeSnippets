@@ -9,11 +9,14 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>** &lt;#comment#&gt; */</string>
+	<string>* &lt;#comment#&gt; */
+</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>202FB25A-EF2E-4F13-AF69-941CAF6205CE</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
 	<string>Comment</string>
 	<key>IDECodeSnippetUserSnippet</key>

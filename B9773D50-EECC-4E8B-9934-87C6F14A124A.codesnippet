@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>datasource</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>import Combine
+import SwiftUI
+
+protocol &lt;#name#&gt;DatasourceProtocol: class {
+    
+}
+
+class &lt;#name#&gt;Datasource: BindableObject, &lt;#name#&gt;DatasourceProtocol {
+    
+    // MARK: - Properties
+    let didChange = PassthroughSubject&lt;Any?, Never&gt;()
+    
+    // MARK: - Updates
+    func fetch(_ completion: @escaping (Error?)-&gt;()) -&gt; URLSessionDataTask? {
+        
+        let url = URL(string: "")!
+        
+        return URLSession.shared.request(url: url) { result in
+            switch result {
+            case .success(let data):
+                if let data = data {
+                    &lt;#varType#&gt; = try? JSONDecoder().decode(&lt;#Type#&gt;.self, from: data).restaurants
+                }
+                completion(nil)
+            case .failure(let error):
+                completion(error)
+            }
+        }
+    }
+}
+
+extension &lt;#name#&gt;Datasource {
+    
+    fileprivate func sendUpdate(_ value: Any?) {
+        DispatchQueue.main.async {
+            self.didChange.send(value)
+        }
+    }
+}
+</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>B9773D50-EECC-4E8B-9934-87C6F14A124A</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Datasource</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Datasource</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

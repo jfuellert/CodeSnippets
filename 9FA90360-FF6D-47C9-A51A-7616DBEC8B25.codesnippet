@@ -14,7 +14,8 @@
     [super prepareForReuse];
     
     &lt;#code#&gt;
-}</string>
+}
+</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9FA90360-FF6D-47C9-A51A-7616DBEC8B25</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -14,7 +14,8 @@
     [super updateConstraints];
     
     &lt;#code#&gt;
-}</string>
+}
+</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>96A1E90E-F637-4DA7-B1FD-001239203DB8</string>
 	<key>IDECodeSnippetLanguage</key>

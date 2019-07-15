@@ -16,7 +16,8 @@
         &lt;#statements#&gt;
     }
     return self;
-}</string>
+}
+</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F8A10585-E3C4-4386-B43E-22B07002A12E</string>
 	<key>IDECodeSnippetLanguage</key>

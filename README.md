@@ -16,10 +16,6 @@ Installation via these commands will overwrite any existing code snippets!
 - Delegate ```delegate```
 - Declare local immutable property ```var```
 - Declare lazy load local property ```varlazy```
-- Declare collection view ```collectionview```
-- Declare image view ```imageview```
-- Declare button ```button```
-- Declare label ```label```
 
 ### Functions
 - Create constraints ```createconstraints```

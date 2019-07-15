@@ -9,7 +9,8 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>NSString *const k&lt;#Class#&gt;_&lt;#name#&gt; = @"&lt;#string#&gt;";</string>
+	<string>NSString *const k&lt;#Class#&gt;_&lt;#name#&gt; = @"&lt;#string#&gt;";
+</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FC5E657C-0A5F-4230-ACDF-E96624C8C416</string>
 	<key>IDECodeSnippetLanguage</key>
