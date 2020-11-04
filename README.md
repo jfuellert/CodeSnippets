@@ -17,6 +17,9 @@ Installation via these commands will overwrite any existing code snippets!
 - Declare local immutable property ```var```
 - Declare lazy load local property ```varlazy```
 
+### Environment
+- Mac Catalyst target wrapper ```mactarget```
+
 ### Functions
 - Create constraints ```createconstraints```
 - Prepare for reuse ```prepareforreuse```
